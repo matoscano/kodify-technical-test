@@ -6,3 +6,9 @@ console.log("RomanNumber creation without new", RomanNumber("X"));
 
 console.log("RomanNumber toInt", RomanNumber("X").toInt());
 console.log("RomanNumber toString", RomanNumber("X").toString());
+
+try {
+  console.log("RomanNumber required validation", RomanNumber(""));
+} catch (error) {
+  console.log("RomanNumber required validation error", error);
+}
