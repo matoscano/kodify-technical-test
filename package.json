@@ -1,0 +1,19 @@
+{
+  "name": "kodify",
+  "version": "1.0.0",
+  "description": "Kodify technical test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matoscano/kodify-technical-test.git"
+  },
+  "author": "Miguel Ángel Toscano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matoscano/kodify-technical-test/issues"
+  },
+  "homepage": "https://github.com/matoscano/kodify-technical-test#readme"
+}
